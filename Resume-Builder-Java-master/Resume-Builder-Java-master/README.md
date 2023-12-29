@@ -1,5 +1,4 @@
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
-
+if you want to use the code make sure give me credit (kamaleshwaran.l2020ece@sece.ac.in);
 
 # Resume Builder
 A project made in java which helps you create your resume without writing code. Fill the details in the application and get your resume ready.
